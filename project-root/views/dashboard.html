@@ -1,0 +1,17 @@
+<h2>Panel de Control</h2>
+
+<p>Bienvenido, <span id="user-name"></span> (<span id="user-role"></span>)</p>
+
+<!-- Solo visible para admin -->
+<div id="admin-controls" style="display: none;">
+  <button id="create-event-btn">➕ Crear nuevo evento</button>
+</div>
+
+<!-- Lista de eventos para ambos -->
+<section>
+  <h3>Eventos disponibles</h3>
+  <a href="my-events.html" data-link>Ver mis eventos</a>
+  <div id="event-list"></div>
+</section>
+
+<button id="logout-btn">Cerrar sesión</button>

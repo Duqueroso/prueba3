@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "0342",
+      "name": "Brayan",
+      "email": "duque@duque.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "b363",
+      "name": "Brayan",
+      "email": "1@1.com",
+      "password": "12345",
+      "role": "visitor"
+    },
+    {
+      "id": "bac2",
+      "name": "Brayan",
+      "email": "1@1.com",
+      "password": "12345",
+      "role": "visitor"
+    },
+    {
+      "id": "3a0d",
+      "name": "Brayan",
+      "email": "d@d.com",
+      "password": "1",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Concierto Medellín",
+      "description": "Evento musical en vivo",
+      "date": "2025-07-30",
+      "capacity": 100,
+      "location": "Plaza Mayor",
+      "registrations": 0
+    }
+  ],
+  "registrations": [
+    {
+      "id": "1",
+      "userId": 3,
+      "eventId": 1
+    }
+  ]
+}
