@@ -136,7 +136,9 @@ Las vistas se cargan dinámicamente dentro del `index.html`. Ejemplos:
 
 ## ✍️ Autor
 
-- **Brayan Duque** – Medellín, Colombia 🇨🇴  
+- **Brayan Duque** – Medellín, Colombia 🇨🇴
+- **Gosling**
+- *duquetb101@gmail.com* - *1000207095*
 
 
 ---
